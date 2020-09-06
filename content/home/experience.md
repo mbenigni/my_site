@@ -17,28 +17,48 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Chief Data Scientist"
+  company = "Global Analytics Platform"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "National Capitol Region"
+  date_start = "2017-07-01"
   date_end = ""
-  description = """
+  description = "The Global Analytics Platform focuses on enabling Special Operations Joint Task Force data accessible, usable, and insightful."
+
+[[experience]]
+  title = "Doctoral Student"
+  company = "Carnegie Mellon University"
+  company_url = "https://sc.cs.cmu.edu/"
+  location = "Pittsburgh, PA"
+  date_start = "2014-08-01"
+  date_end = "2017-06-01"
+  description = "Thesis - Detection and Analysis of Online Extremist Communities"
+
+
+[[experience]]
+  title = "Operations Research Analyst"
+  company = "USSOCOM"
+  company_url = "https://www.socom.mil/"
+  location = "MacDill AFB, FL"
+  date_start = "2014-06-01"
+  date_end = "2017-05-01"
+  description = """ "Provided analytical decision support for special operations capability development."
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Risk Analysis
+  * Portfolio Management
+  * Decision Support
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Assistant Professor"
+  company = "United States Military Academy"
+  company_url = "https://www.westpoint.edu/academics/academic-departments/mathematical-sciences"
+  location = "West Point, NY"
+  date_start = "2008-07-01"
+  date_end = "2011-06-01"
+  description = "Taught introduction to probability and statistics and math modeling."
 
 +++
