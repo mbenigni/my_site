@@ -1,9 +1,9 @@
 ---
 authors:
-- skope
+- admin
 date: "2020-04-04"
 title: Visualizing Geospatial Networks at Scale
-featured: true
+featured: false
 image:
   caption: ""
   focal_point: ""
