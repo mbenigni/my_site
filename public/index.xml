@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthew Benigni</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matthew Benigni</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 04 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Matthew Benigni</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Visualizing Geospatial Networks at Scale</title>
+      <link>/post/geonetvis/</link>
+      <pubDate>Sat, 04 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/post/geonetvis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bot-ivistm: Assessing Information Manipulation in Social Media Using Network Analytics</title>
+      <link>/publication/bots/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/bots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From tweets to intelligence: Understanding the islamic jihad supporting community on twitter</title>
+      <link>/publication/sbp_brims/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/sbp_brims/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Extremism and the Communities that Sustain It</title>
+      <link>/publication/plos_one/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/plos_one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatio-temporal improvised explosive device monitoring: improving detection to minimise attacks</title>
+      <link>/publication/ieds/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ieds/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
