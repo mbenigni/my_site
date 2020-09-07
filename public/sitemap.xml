@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/tag/abi/</loc>
+    <loc>/tags/abi/</loc>
     <lastmod>2020-04-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -13,12 +13,17 @@
   </url>
   
   <url>
-    <loc>/author/matthew-benigni/</loc>
+    <loc>/</loc>
     <lastmod>2020-04-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/network-science/</loc>
+    <loc>/authors/mattbenigni/</loc>
+    <lastmod>2020-04-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/network-science/</loc>
     <lastmod>2020-04-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,7 +33,7 @@
   </url>
   
   <url>
-    <loc>/tag/r/</loc>
+    <loc>/tags/r/</loc>
     <lastmod>2020-04-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,27 +43,17 @@
   </url>
   
   <url>
-    <loc>/post/geonetworks/</loc>
+    <loc>/post/geonetvis/</loc>
     <lastmod>2020-04-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/2/</loc>
+    <loc>/authors/admin/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -73,12 +68,12 @@
   </url>
   
   <url>
-    <loc>/author/kathleen-carley/</loc>
+    <loc>/authors/kathleen-carley/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/kenneth-joseph/</loc>
+    <loc>/authors/kenneth-joseph/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -98,7 +93,7 @@
   </url>
   
   <url>
-    <loc>/author/reinhard-furrer/</loc>
+    <loc>/authors/reinhard-furrer/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -112,19 +107,7 @@
   </url>
   
   <url>
-    <loc>/tag/geonetworks/</loc>
-  </url>
-  
-  <url>
     <loc>/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>/tag/visualization/</loc>
-  </url>
-  
-  <url>
-    <loc>/post/geonetvis/</loc>
   </url>
   
 </urlset>

@@ -1,7 +1,7 @@
 ---
 title: "Bot-ivistm: Assessing Information Manipulation in Social Media Using Network Analytics"
 authors:
-- admin
+- mattbenigni
 - Kenneth Joseph
 - Kathleen Carley
 

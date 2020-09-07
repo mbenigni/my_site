@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | COL Matthew Benigni</title>
+    <title>Posts | Matthew Benigni</title>
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
@@ -14,16 +14,8 @@
     
     <item>
       <title>Visualizing Geospatial Networks at Scale</title>
-      <link>/post/geonetworks/</link>
-      <pubDate>Sat, 04 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/post/geonetworks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visualizing Geospatial Networks at Scale</title>
       <link>/post/geonetvis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/post/geonetvis/</guid>
       <description></description>
     </item>
