@@ -1,7 +1,7 @@
 ---
 title: "Spatio-temporal improvised explosive device monitoring: improving detection to minimise attacks"
 authors:
-- admin
+- mattbenigni
 - Reinhard Furrer
 
 date: "2015-09-01T00:00:00Z"

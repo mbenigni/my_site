@@ -1,7 +1,7 @@
 ---
 title: "From tweets to intelligence: Understanding the islamic jihad supporting community on twitter"
 authors:
-- admin
+- mattbenigni
 - Kathleen Carley
 
 date: "2015-09-01T00:00:00Z"

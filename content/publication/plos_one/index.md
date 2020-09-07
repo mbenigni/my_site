@@ -1,7 +1,7 @@
 ---
 title: "Online Extremism and the Communities that Sustain It"
 authors:
-- admin
+- mattbenigni
 - Kenneth Joseph
 - Kathleen Carley
 
