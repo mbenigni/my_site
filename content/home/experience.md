@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "National Capitol Region"
   date_start = "2017-07-01"
   date_end = ""
-  description = "The Global Analytics Platform focuses on enabling Special Operations Joint Task Force data accessible, usable, and insightful."
+  description = "The Global Analytics Platform focuses on enabling Special Operations Joint Task Force to make their data accessible, usable, and insightful."
 
 [[experience]]
   title = "Doctoral Student"
@@ -44,7 +44,7 @@ date_format = "Jan 2006"
   location = "MacDill AFB, FL"
   date_start = "2014-06-01"
   date_end = "2017-05-01"
-  description = """ "Provided analytical decision support for special operations capability development."
+  description = """ Provided analytical decision support for special operations capability development.
   Responsibilities include:
   
   * Risk Analysis
