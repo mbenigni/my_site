@@ -1,0 +1,22 @@
+# Theme metadata
+name = "skope"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#1b344d"
+
+
+# Menu
+menu_primary = "#09ed46"
+menu_text = "#914162"
+menu_text_active = "#000000"
+menu_title = "rgb(153, 153, 153)"
+
+# Home sections
+home_section_odd = "rgb(38, 35, 35)"
+home_section_even = "rgb(117, 103, 103)"
+
+# 22, 87, 184
+# 194, 6, 6

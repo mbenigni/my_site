@@ -1,0 +1,22 @@
+# Theme metadata
+name = "Mr Robot"
+
+# Is theme light or dark?
+light = false
+
+# Primary
+primary = "rgb(22, 87, 184)"
+#alternate = "rgb(194, 6, 6)"
+
+# Menu
+menu_primary = "rgb(33, 37, 41)"
+menu_text = "rgb(194, 6, 6)"
+menu_text_active = "rgba(255,255,255,1)"
+menu_title = "rgb(153, 153, 153)"
+
+# Home sections
+home_section_odd = "rgb(194, 6, 6)"
+home_section_even = "rgb(194, 6, 6)"
+
+# 22, 87, 184
+# 194, 6, 6
