@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Analytics | Matthew Benigni</title>
+    <link>/tags/analytics/</link>
+      <atom:link href="/tags/analytics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Analytics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Analytics</title>
+      <link>/tags/analytics/</link>
+    </image>
+    
+    <item>
+      <title>Data Analytics Tempo</title>
+      <link>/post/analytics_tempo/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/post/analytics_tempo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
