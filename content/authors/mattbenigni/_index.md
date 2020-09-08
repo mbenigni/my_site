@@ -66,8 +66,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a technical and strategic data science advisor within the Department of Defense. I specialize in building enterprise analytic teams and enabling digital transformation.
-
-I currently serve as the Chief Data Scientist for USSOCOM’s Global Analytics Platform.  My interests are at the intersection of data science and national security with a focus on applied intelligence augmentation through machine learning. 
+I am a technical and strategic data science advisor within the Department of Defense. I currently serve as the Chief Data Scientist for USSOCOM’s Global Analytics Platform developing machine-intelligence workflows for national security.  I specialize in building and employing high performing analytic teams that enable digital transformation. 
 
 I welcome collaboration with fellow practitioners from industry, academia, law enforcement and security. I am neither seeking job opportunities, nor an entry point for vendor solutions into the Department of Defense. 
