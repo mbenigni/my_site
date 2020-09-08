@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 50  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -66,4 +66,15 @@ date_format = "Jan 2006"
  -  Consulting: managed $ 160K research contract delivering a scheduling analytic to the School of Advanced Leadership and Tactics
   """
 
+[[experience]]
+  title = "Company Commander"
+  company = "First Cavalry Division"
+  company_url = "https://www.army.mil/1stcav"
+  location = "Baghdad, Iraq | Fort Hood, TX"
+  date_start = "2004-08-01"
+  date_end = "2006-06-01"
+  description = """
+ -  Armor-Mech Company Team Commander, 1-12 CAV, Eastern Baghdad, Operation Iraqi Freedom II
+ -  Headquarters and Headquaters Troop Commander, 1/7CAV, Fort Hood, TX
+  """
 +++
