@@ -1,5 +1,5 @@
 ---
-title: "Online Extremism and the Communities that Sustain It"
+title: "PLOS One: Online Extremism and the Communities that Sustain It"
 authors:
 - mattbenigni
 - Kenneth Joseph
@@ -31,8 +31,7 @@ summary: We present Iterative Vertex Clustering and Classification (IVCC), a sca
 #featured: false
 
 links:
-
-url_pdf: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0181405&type=printable
+url_pdf: ''
 url_code: ''
 url_dataset: https://figshare.com/articles/PLOS_One_Data_Accompanies_Online_Threat_Group_Supporting_Community_Detection_Uncovering_the_ISIS_Supporting_Community_on_Twitter_/3166798
 url_poster: ''
@@ -44,7 +43,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
