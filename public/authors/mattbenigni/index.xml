@@ -5,12 +5,20 @@
     <link>/authors/mattbenigni/</link>
       <atom:link href="/authors/mattbenigni/index.xml" rel="self" type="application/rss+xml" />
     <description>Matthew Benigni</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 04 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Matthew Benigni</title>
       <link>/authors/mattbenigni/</link>
     </image>
+    
+    <item>
+      <title>Digitally Enabled Warriors- Data Science at the Tactical Edge with COL Matthew Benigni</title>
+      <link>/talks/def_podcast/</link>
+      <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/talks/def_podcast/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Visualizing Geospatial Networks at Scale</title>

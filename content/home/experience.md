@@ -33,48 +33,45 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Doctoral Student, Societal Computing"
-  company = "Carnegie Mellon University"
-  company_url = "https://sc.cs.cmu.edu/"
-  location = "Pittsburgh, PA"
-  date_start = "2014-08-01"
-  date_end = "2017-06-01"
-  description = "Thesis - Detection and Analysis of Online Extremist Communities"
-
-
-[[experience]]
-  title = "Operations Research Analyst"
-  company = "USSOCOM"
+  title = "Strategic Planning Analyst"
+  company = "United States Special Operations Command"
   company_url = "https://www.socom.mil/"
   location = "MacDill AFB, FL"
-  date_start = "2014-06-01"
-  date_end = "2017-05-01"
-  description = """ 
- - Executive Officer to the Director J8 Force Management.
- - Analytic Decision Support for Risk Assesment and Capability Development.
+  date_start = "2011-10-01"
+  date_end = "2014-06-01"
+  description = """
+  
+ - Provided quantitative decision support in support of USSOCOM strategic planning and investment.
+ - Served as exective officer to the USSOCOM J8 Force Management Director.
+  
   """
 
 [[experience]]
   title = "Assistant Professor"
-  company = "United States Military Academy"
+  company = "Department of Mathematical Sciences, United States Military Academy"
   company_url = "https://www.westpoint.edu/academics/academic-departments/mathematical-sciences"
   location = "West Point, NY"
-  date_start = "2008-07-01"
+  date_start = "2008-06-01"
   date_end = "2011-06-01"
   description = """
- -  Instruction: Introduction to Probability and Statistics, Mathematical Modeling
- -  Consulting: managed $ 160K research contract delivering a scheduling analytic to the School of Advanced Leadership and Tactics
+  
+ - Taught Probability and Statistics and Mathematical Modeling.
+ - Served as project lead for the [Center for Data Analysis and Statistics](https://www.westpoint.edu/academics/academic-departments/mathematical-sciences/centers/center-for-data-analysis-statistics).
+  
   """
-
+  
 [[experience]]
-  title = "Company Commander"
+  title = "Armor Officer"
   company = "First Cavalry Division"
   company_url = "https://www.army.mil/1stcav"
-  location = "Baghdad, Iraq | Fort Hood, TX"
-  date_start = "2004-08-01"
+  location = "Fort Hood, TX"
+  date_start = "2003-06-01"
   date_end = "2006-06-01"
   description = """
- -  Armor-Mech Company Team Commander, 1-12 CAV, Eastern Baghdad, Operation Iraqi Freedom II
- -  Headquarters and Headquaters Troop Commander, 1/7CAV, Fort Hood, TX
+  
+ - Commanded Headquarters and Headquarters Troop, 1-7CAV
+ - Commanded A Company, 1-12CAV in Eastern Baghdad in Operation Iraqi Freedom II
+ - Served as 1st Brigade Combat Team Chief of Operational Plans in support of Operation Iraqi Freedom II
+  
   """
 +++
