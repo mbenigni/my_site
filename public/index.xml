@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthew Benigni</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matthew Benigni</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Matthew Benigni</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Digitally Enabled Warriors- Data Science at the Tactical Edge with COL Matthew Benigni</title>
+      <link>/talks/def_podcast/</link>
+      <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/talks/def_podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling Enterprise Analytics - Part 1</title>
+      <link>/post/enabling_enterprise_analytics_1/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/post/enabling_enterprise_analytics_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling Enterprise Analytics - Part 2</title>
+      <link>/post/enabling_enterprise_analytics_2/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/post/enabling_enterprise_analytics_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualizing Geospatial Networks at Scale</title>
+      <link>/post/geonetvis/</link>
+      <pubDate>Sat, 04 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/post/geonetvis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Analytics Tempo</title>
+      <link>/post/analytics_tempo/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/post/analytics_tempo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OECdetectR</title>
+      <link>/project/oecdetectr/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/oecdetectr/</guid>
+      <description>&lt;p&gt;Online social networks have become a powerful venue for political activism. In many cases large, insular online communities form that have been shown to be powerful diffusion mechanisms of both misinformation and propaganda.  We see these methods primarily as a means to study online communities and their role in political activism.  &lt;strong&gt;OECdetectR&lt;/strong&gt; enables analysis of large Twitter snowball samples enabled by 
+&lt;a href=&#34;https://github.com/kennyjoseph/twitter_dm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TwitterDM&lt;/a&gt;
+.  We offer a tutorial using online discussion centered around the Euromaidan Movement on Twitter.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bot-ivistm: Assessing Information Manipulation in Social Media Using Network Analytics</title>
+      <link>/publication/bots/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/bots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From tweets to intelligence: Understanding the islamic jihad supporting community on twitter</title>
+      <link>/publication/sbp_brims/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/sbp_brims/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PLOS One: Online Extremism and the Communities that Sustain It</title>
+      <link>/publication/plos_one/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/plos_one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatio-temporal improvised explosive device monitoring: improving detection to minimise attacks</title>
+      <link>/publication/ieds/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ieds/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
