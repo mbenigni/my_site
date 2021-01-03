@@ -10,5 +10,5 @@ image:
   focal_point: "Smart"
 reading_time: 72
 external_link: https://www.def.org/podcast/episode/21ced999/digitally-enabled-warriors-data-science-at-the-tactical-edge-with-col-matt-benigni
-summary: Accompanying slides are available here in [HTML](talks/def_podcast/assets/DEF_overview.html) or [PDF](talks/def_podcast/assets/DEF_overview.pdf)
+summary: Accompanying slides are available here in [HTML](files/DEF_overview.html) or [PDF](files/DEF_overview.pdf)
 ---
