@@ -14,7 +14,7 @@ tags:
   
 layout: html_post
 post_loc: enabling_enterprise_analytics_1/post_content/post_content.html
-summary: A Shift in Mindset - it is time to start thinking about data literacy as a readiness problem
+summary: A Shift in Mindset - it is time to start thinking about data literacy as a readiness problem [PDF download](static/files/enabling_enterprise_analytics_1.pdf)
 reading_time: 3
 
 ---

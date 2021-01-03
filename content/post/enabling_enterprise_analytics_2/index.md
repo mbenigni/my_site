@@ -14,7 +14,7 @@ tags:
   
 layout: html_post
 post_loc: enabling_enterprise_analytics_2/post_content/post_content.html
-summary: Drilling for Responsive, Relevant, Rigorous, and Reusable Analytics
+summary: Drilling for Responsive, Relevant, Rigorous, and Reusable Analytics [PDF download](static/files/enabling_enterprise_analytics_2.pdf)
 reading_time: 5
 
 ---
